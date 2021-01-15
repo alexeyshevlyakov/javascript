@@ -1,6 +1,7 @@
 'use strict';
 
 let a = 5;
+let b = 6;
 
 let incr = 10,
     decr = 10;
